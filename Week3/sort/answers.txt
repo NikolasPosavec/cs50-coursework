@@ -1,0 +1,12 @@
+sort1 uses: bubble
+
+How do you know?: Sort1 is bubble because it took the longest amount of time to sort the random50000.txt file.
+
+sort2 uses: merge
+
+How do you know?: Sort2 is merge because it took the least amount of time to sort the random50000.txt file.
+
+sort3 uses: selection
+
+How do you know?: Sort3 is selection because it was faster than sort1 but slower than sort2 so it took the second most time to sort the
+random50000.txt file.
